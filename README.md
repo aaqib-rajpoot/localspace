@@ -1,6 +1,9 @@
 # localspace
 exercise of setting up local environment with github
 changes has made
+# git setup account configurations
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
 
 # commands
 git clone "repository link"
